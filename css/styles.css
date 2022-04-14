@@ -134,9 +134,9 @@ margin-right: 30px;
   border-radius: 230px;
   font-family: 'Artifika', serif;
   color: #05f7ff;
-  font-size: 25px;
+    font-size: 1.5625rem;
   padding: 10px 20px 10px 20px;
-  margin: 0 auto;
+margin: 0 auto;
   text-decoration: none;
 }
 
